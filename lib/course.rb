@@ -7,7 +7,7 @@ class Course
     @@all << self
   end
 
-  def sefl.all
+  def self.all
     @@all
   end
 
